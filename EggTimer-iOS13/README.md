@@ -1,3 +1,8 @@
+# Egg-Timer
+## このアプリの説明
+卵のゆで時間を測るタイマーです。Soft, Medium, Hardがあり, それぞれ3分, 5分, 7分測ることができます。タイマーをスタートさせると、3分クッキングの音楽が流れます。
+下記講座を見ながら作成しました。
+
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Egg Timer
